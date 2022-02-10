@@ -1,0 +1,15 @@
+Continuous Integration:
+
+Continuous integration is an automated process that merges code contributions from different developers into a central repository. It's a 
+valuable DevOps practice because it allows continuous testing of new changes to code.
+
+Continous Delivery:
+
+Continuous delivery is an extension of continuous integration since it automatically deploys all code changes to a testing and/or production 
+environment after the build stage.
+
+Continous Deployment:
+
+Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your 
+production pipeline is released to your customers. There's no human intervention, and only a failed test will prevent a new change to be 
+deployed to production.
