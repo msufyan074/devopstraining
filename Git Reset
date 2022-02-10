@@ -1,0 +1,13 @@
+Git reset Gives Three Flags 
+
+1: Soft
+2: Mixed
+3: hard
+
+with Soft we can move changes from Local Repo to Staging area.
+
+With Mixed We can move  changes from Local repo to Working Directory.
+
+With hard flag chnages will be erased.
+
+
