@@ -1,0 +1,31 @@
+Agile:
+
+Agile Methodology involves continuous iteration of development and testing in the SDLC process. This software development method emphasizes on 
+iterative, incremental, and evolutionary development.
+
+Agile development process breaks the product into smaller pieces and integrates them for final testing. It can be implemented in many ways, 
+
+DevOps:
+
+DevOps is a software development method which focuses on communication, integration, and collaboration among IT professionals to enables rapid 
+deployment of products.
+
+DevOps is a culture that promotes collaboration between Development and Operations Team. This allows deploying code to production faster and in
+an automated way. It helps to increases an organization’s speed to deliver application and services. It can be defined as an alignment of 
+development and IT operation.
+
+
+Agile Vs DevOps:
+
+The chief difference between Agile and DevOps is that the former is an approach that emphasizes 
+iterative development using independent, cross-functional teams. At the same time, the latter is a practice that moves Operations roles into Development, creating the basis for CI/CD (Continuous Integration and Continuous Delivery).
+
+Proponents of using both theories in appropriate business needs believe that DevOps can be seen as an extension of Agile. Agile relies on 
+cross-functional teams that typically include:
+
+A designer
+A tester
+A developer
+
+DevOps takes this one step further by adding an operations person who can ease the transition from software to deployment. Because of DevOps’ 
+inherent communication with other teams, DevOps can help automate processes and improve transparency for all teams.
