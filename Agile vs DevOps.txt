@@ -14,7 +14,6 @@ DevOps is a culture that promotes collaboration between Development and Operatio
 an automated way. It helps to increases an organization’s speed to deliver application and services. It can be defined as an alignment of 
 development and IT operation.
 
-
 Agile Vs DevOps:
 
 The chief difference between Agile and DevOps is that the former is an approach that emphasizes 
@@ -27,5 +26,4 @@ A designer
 A tester
 A developer
 
-DevOps takes this one step further by adding an operations person who can ease the transition from software to deployment. Because of DevOps’ 
-inherent communication with other teams, DevOps can help automate processes and improve transparency for all teams.
+DevOps takes this one step further by adding an operations person who can ease the transition from software to deployment. Because of DevOps’ inherent communication with other teams, DevOps can help automate processes and improve transparency for all teams.
