@@ -1,0 +1,3 @@
+docker volume create data
+docker container run -it --publish 8081:80 --name nginx-cont nginx -v data:/usr/share/nginx/html/index.html (Volume Mount)
+docker container run -it --publish 8081:80 --name nginx-cont nginx -v /Users\msufyan\Desktop\Devops:/usr/share/nginx/html/index.html (Bind Mount) 
