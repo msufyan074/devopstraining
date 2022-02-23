@@ -1,0 +1,1 @@
+docker container run -d --publish 9090:80 --name nginx-background nginx
