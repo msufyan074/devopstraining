@@ -3,7 +3,7 @@ name: Path based filtering
 on:
   push:
     branches:
-      - main
+      - master
     paths:
     - "path/**"
 
